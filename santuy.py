@@ -11,9 +11,9 @@ os.system("clear")
 ░██╔██╗░██╔══██║██║░░░░░██╔══██╗██╔══██║██║░░██║██║░░██║██╔══██╗
 ██╔╝╚██╗██║░░██║███████╗██████╦╝██║░░██║██████╔╝╚█████╔╝██║░░██║
 ╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═════╝░╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝""")
-print.         ("#-- DOOS BY XALBADOR --#")
+print("#-- DOOS BY XALBADOR --#")
 print("--> KALAU MAU PAKEK GANTENG DULU KONTOL <--")
-print        ("#-- TOOLS BY XALBADORV2 --#")
+print("#-- TOOLS BY XALBADORV2 --#")
 ip = str(input(" Masukan IP:"))
 port = int(input(" Port:"))
 choice = str(input(" Gas Ddos Gak ni?(y/n):"))
