@@ -5,15 +5,15 @@ import threading
 import os
 
 os.system("clear")
-print("Coded By Aryaa")
-print("""\033[1;35mDDOS SAMP 
 ██╗░░██╗░█████╗░██╗░░░░░██████╗░░█████╗░██████╗░░█████╗░██████╗░
 ╚██╗██╔╝██╔══██╗██║░░░░░██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
 ░╚███╔╝░███████║██║░░░░░██████╦╝███████║██║░░██║██║░░██║██████╔╝
 ░██╔██╗░██╔══██║██║░░░░░██╔══██╗██╔══██║██║░░██║██║░░██║██╔══██╗
 ██╔╝╚██╗██║░░██║███████╗██████╦╝██║░░██║██████╔╝╚█████╔╝██║░░██║
 ╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═════╝░╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝""")
-print("#-- XalbadorV2 --#")
+print.         ("#-- DOOS BY XALBADOR --#")
+print("--> KALAU MAU PAKEK GANTENG DULU KONTOL <--")
+print        ("#-- TOOLS BY XALBADORV2 --#")
 ip = str(input(" Masukan IP:"))
 port = int(input(" Port:"))
 choice = str(input(" Gas Ddos Gak ni?(y/n):"))
